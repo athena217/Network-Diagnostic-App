@@ -92,9 +92,9 @@ CST380-Project/
 ├──────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────┤
 │ Liliana Saavedra │ Data — SwiftData models and persistence                                                      │
 ├──────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────┤
-│ Joceline Cortez  │ UI & Styling — ConnectivityView and LatencyView polish                                       │
+│ Joceline Cortez  │ Integration — Testing, documentation, presentation                                       │
 ├──────────────────┼──────────────────────────────────────────────────────────────────────────────────────────────┤
-│ Athena Lopez     │ Integration — Testing, documentation, presentation                                           │
+│ Athena Lopez     │ UI & Styling — ConnectivityView and LatencyView polish                                           │
 └──────────────────┴──────────────────────────────────────────────────────────────────────────────────────────────┘
 
 ---
